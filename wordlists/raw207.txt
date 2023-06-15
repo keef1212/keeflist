@@ -1,0 +1,206 @@
+all
+and
+animal
+ash
+at
+back
+bad
+bark (tree)
+because
+belly
+big
+bird
+black
+blood
+bone
+breast
+child
+cloud
+cold
+correct
+day
+dirty
+dog
+dry
+dull (knife)
+dust
+ear
+earth
+egg
+eye
+far
+fat (noun)
+father
+feather
+few
+fingernail
+fire
+fish
+five
+flower
+fog
+foot
+forest
+four
+fruit
+full
+good
+grass
+green
+guts
+hair
+hand
+he
+head
+heart
+heavy
+here
+horn
+how
+husband
+i
+ice
+if
+in
+knee
+lake
+leaf
+left
+leg
+long
+louse
+man (adult male)
+man (humans)
+many
+meat
+moon
+mother
+mountain
+mouth
+name
+narrow
+near
+neck
+new
+night
+nose
+not
+old
+one
+other
+rain
+red
+right
+river
+road
+root
+rope
+rotten
+round
+salt
+sand
+sea
+seed
+sharp (knife)
+short
+skin
+sky
+small
+smoke
+smooth
+snake
+snow
+some
+star
+stick
+stone
+straight
+sun
+tail
+that
+there
+they
+thick
+thin
+this
+three
+to bite
+to blow
+to breathe
+to burn
+to come
+to count
+to cut
+to die
+to dig
+to drink
+to eat
+to fall
+to fear
+to fight
+to float
+to flow
+to fly
+to freeze
+to give
+to hear
+to hit
+to hold
+to hunt
+to kill
+to know
+to laugh
+to lie (in bed)
+to live
+to play
+to pull
+to push
+to rub
+to say
+to scratch
+to see
+to sew
+to sing
+to sit
+to sleep
+to smell
+to spit
+to split
+to squeeze
+to stab
+to stand
+to suck
+to swell
+to swim
+to think
+to throw
+to tie
+to turn (intransitive)
+to vomit
+to walk
+to wash
+to wipe
+tongue (organ)
+tooth
+tree
+two
+warm
+water
+we
+wet
+what
+when
+where
+white
+who
+wide
+wife
+wind
+wing
+with
+woman
+worm
+year
+yellow
+you (plural)
+you (singular)
